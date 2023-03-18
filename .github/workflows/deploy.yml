@@ -25,7 +25,7 @@ jobs:
       with: 
        local: /home/runner/work/Mathsismagic/Mathsismagic/
        remote: /home/ubuntu/Mathsismagic/
-       host: 52.203.90.126  
+       host: 44.196.236.75  
        username: ubuntu
        password: 687347
        
