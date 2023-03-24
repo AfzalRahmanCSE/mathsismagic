@@ -27,8 +27,8 @@ jobs:
       uses: garygrossgarten/github-action-scp@release
       with: 
        local: /home/runner/work/mathsismagic/mathsismagic
-       remote: /home/ubuntu/Mathsismagic/
-       host: 44.196.236.75  
+       remote: /var/www/html/
+       host: 54.208.12.15 
        username: ubuntu
        password: 687347
        
