@@ -28,7 +28,7 @@ jobs:
       with: 
        local: /home/runner/work/mathsismagic/mathsismagic
        remote: /var/www/html/
-       host: 54.208.12.15 
+       host: 54.165.247.217
        username: ubuntu
        password: 687347
        
